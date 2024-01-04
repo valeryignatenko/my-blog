@@ -10,10 +10,10 @@ const CONFIG = {
     github: "--",
     instagram: "--",
   },
-  projects: [
+  projects: [ // Ссылки на проекты
     {
       name: `my-blog`,
-      href: "https://github.com/valeryignatenko/my-blog",
+      href: "https://my-blog-eight-sigma.vercel.app/",
     },
   ],
   // blog setting (required)
