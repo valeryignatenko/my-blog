@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [ // Ссылки на проекты
     {
-      name: `my-blog`,
+      name: `ibakecookies.com`,
       href: "https://my-blog-eight-sigma.vercel.app/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Developer blog",
+    title: "ibakecookies.com",
     description: "Welcome to trumanv82 Developer Blog!",
   },
 
