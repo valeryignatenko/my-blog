@@ -14,7 +14,7 @@ const ThemeToggle: React.FC<Props> = () => {
 
   return (
     <StyledWrapper onClick={handleClick}>
-     <span>{scheme === "light" ? "☀️" : "🌙"}</span>
+     <span>{scheme === "light" ? "🌘" : "🌔"}</span>
     </StyledWrapper>
   )
 }
