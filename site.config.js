@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "ibakecookies.com",
+    title: "ibakecookies.io",
     description: "Welcome to trumanv82 Developer Blog!",
   },
 
