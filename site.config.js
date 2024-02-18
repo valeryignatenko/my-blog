@@ -1,18 +1,18 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Valery T",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "Valery Trunov",
+    //image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Software development",
-    bio: "Я разработчик програмного обеспечения. Веду свой блог и делюсь опытом и переводом статей.",
+    bio: "Всем привет! Я разработчик програмного обеспечения. Веду свой блог и делюсь опытом и переводом статей.",
     email: "trumanv82@gmail.com",
-    linkedin: "--",
+    //linkedin: "--",
     github: "https://github.com/valeryignatenko",
     instagram: "--",
   },
   projects: [ // Ссылки на проекты
     {
-      name: `ibakecookies.com`,
+      name: `ibakecookies.io`,
       href: "https://my-blog-eight-sigma.vercel.app/",
     },
   ],
