@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [ // Ссылки на проекты
     {
-      name: `ibakecookies.io`,
-      href: "https://ibakecookies.io/",
+      name: `ibakecookies.io 🍪`,
+      href: "https://ibakecookies.io",
     },
   ],
   // blog setting (required)
