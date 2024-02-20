@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Software development",
     bio: "Всем привет! Я разработчик програмного обеспечения. Веду свой блог и делюсь опытом и переводом статей.",
     email: "trumanv82@gmail.com",
-    linkedin: "--",
-    github: "--",
-    instagram: "--",
+    linkedin: "https://ibakecookies.io",
+    github: "https://ibakecookies.io",
+    instagram: "https://www.instagram.com/ibakecookies.io",
   },
   projects: [ // Ссылки на проекты
     {
