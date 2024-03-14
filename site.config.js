@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "Valery Trunov",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Software development",
+    role: "Software developmen",
     bio: "Всем привет! Я разработчик программного обеспечения. Веду свой блог и делюсь опытом и переводом статей.",
     email: "trumanv82@gmail.com",
     linkedin: "https://ibakecookies.io",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [ // Ссылки на проекты
     {
       name: `ibakecookies.io 🍪`,
-      href: "https://ibakecookies.io",
+      href: "https://ibakecookies.io/",
     },
   ],
   // blog setting (required)
