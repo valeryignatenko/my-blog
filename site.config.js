@@ -23,8 +23,8 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "my-blog-eight-sigma.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  link: "mhttps://ibakecookies.io",
+  since: 2024, // If leave this empty, current year will be used.
   lang: "ru-RU", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
